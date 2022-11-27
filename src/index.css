@@ -1,13 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300italic,regular,italic,500,500italic,600,600italic,700,700italic");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:regular,500,600,700,800,900,italic,500italic,600italic,700italic,800italic,900italic");
+@import url("https://fonts.googleapis.com/css?family=El+Messiri:regular,500,600,700");
+:root {
+  --color-text: #3e0409;
+  --color-content: #f9dfd2;
+  --color-bg: #34061e;
+}
+* {margin: 0; box-sizing: border-box;}
+
+html, body, #root, .App {width: 100%; height: 100%;}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Playfair Display";
+  overflow: hidden; font-size: 1.5rem;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App {
+  display: grid;
+  grid-template:
+    "content image" 6fr
+    "bg image" 1fr / 5fr 2fr;
+}
+
+.App button {
+  position: absolute;
+  width: 50px; height: 50px;
+  background-color: #0009;
+  color: #fff; border: none;
+  border-radius: 10px;
+  top: 50%; right: 10px;
+  outline: none; cursor: pointer;
+}
+.App button.prev {transform: translateY(-150%);}
+.App button.next {transform: translateY(50%);}
+
+@keyframes show {
+  from {transform: translateY(25px); opacity: 0;}
+}
+
+.App .content {
+  padding: 100px;
+  display: flex; flex-direction: column;
+  justify-content: center;
+  position: relative;
+  background-color: var(--color-content);
+  color: var(--color-text);
+}
+.App .content::before {
+  content: "";
+  position: absolute;
+  width: 10px; height: 80%;
+  top: 10%; left: 50px;
+  background-color: var(--color-bg);
+}
+.App .content * {animation: show 1s ease-in-out 1;}
+.App .content h1 {font-size: 2.5em; font-family: "El Messiri";}
+.App .content h1::before {content: "/ ";}
+.App .content li {list-style-type: ". ";}
+.App .content p {text-align: justify;}
+
+.App .img {grid-area: image;}
+.App .img img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+}
+
+.App .background {
+  position: relative;
+  background-color: var(--color-bg);
+  color: #fff; padding: 0 100px;
+  display: flex; align-items: center;
+  justify-content: space-between;
+}
+.App .background::after {
+  content: "";
+  position: absolute;
+  width: 50px; height: 50px;
+  top: 0; right: 100px;
+  background-color: inherit;
+  transform: translateY(-50%) rotate(45deg);
 }
