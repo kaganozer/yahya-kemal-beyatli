@@ -1,10 +1,12 @@
 import data from "./data.json";
+import React from "react";
 import { useState } from "react";
 import "font-awesome/css/font-awesome.min.css";
 
 function App() {
   const [ info, setInfo ] = useState(0);
 
+  console.log(data["data"].filter(d => d.title));
   const clickHandle = (fd) => {
     if ((info+fd) < 0) {setInfo(data["data"].length-1);}
     else if ((info+fd) === data["data"].length) {setInfo(0);}
@@ -50,7 +52,11 @@ function App() {
           {
             text.map((t, index) => {
               if (t) {
-                return <p key={index}>{t}</p>;
+                return <p key={index}>{
+                  Array.isArray(t)
+                  ? React.createElement(t[0], {}, t[1])
+                  : t
+                }</p>;
               }
               return <br key={index}/>;
             })

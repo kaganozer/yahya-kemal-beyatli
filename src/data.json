@@ -2,7 +2,10 @@
     "data": [
         {
             "title": "Yahya Kemal Beyatlı",
-            "text": ["1884-1958"],
+            "text": [
+                "1884-1958",
+                ". Hamza Kağan Özer"
+            ],
             "image": "yahya-kemal-beyatli.jpeg"
         },
         {
@@ -11,6 +14,8 @@
                 "Hayatı",
                 "Edebi Kişiliği",
                 "Eserleri",
+                "Şiir Anlayışı",
+                "Yahya Kemal ve Celile Hanım",
                 "Kaynakça"
             ],
             "image": "yahya-kemal-beyatli.jpeg"
@@ -31,7 +36,7 @@
                 "",
                 "1912'te Paris'ten İstanbul'a döndü. Darüşşafaka İdadisi ve Medresetü'l-Vaizin'de dersler verdi. İstanbul'da Ziya Gökalp, Tevfik Fikret ve Yakup Kadri gibi isimlerle tanıştı. Ziya Gökalp'in tavsiyesiyle 1916'da Darülfünun'da müderris olarak göreve başladı. 1919'a kadar görev yaptığı Darülfünun'da hayatının sonuna kadar çok yakın dostu olarak kalan Ahmet Hamdi Tanpınar'a öğretmenlik yaptı."
             ],
-            "image": "yahya-kemal-beyatli-genclik-2.png"
+            "image": "yahya-kemal-beyatli-genclik.png"
         },
         {
             "text": [
@@ -74,15 +79,62 @@
             "image": "yahya-kemal-beyatli-4.png"
         },
         {
+            "title": "Eserleri",
+            "list": [
+                "Eski Şiirin Rüzgârıyle, Yahya Kemal Enstitüsü / İstanbul, 1962, Şiir",
+                "Rubaîler ve Hayyam Rubaîlerini Türkçe Söyleyiş, Yahya Kemal Enstitüsü / İstanbul, 1962, Şiir",
+                "Aziz İstanbul, İstanbul Fetih Cemiyeti Yayınları / İstanbul, 1964, Deneme",
+                "Eğil Dağlar, İstanbul Fetih Cemiyeti Yayınları / İstanbul, 1966, Deneme",
+                "Siyasî Hikayeler, İstanbul Fetih Cemiyeti Yayınları / İstanbul, 1968, Hikaye",
+                "Siyasî ve Edebî Portreler, Yahya Kemal Enstitüsü / İstanbul, 1968, Biyografi",
+                "Edebiyata Dair, Yahya Kemal Enstitüsü / İstanbul, 1971, Deneme",
+                "Çocukluğum, Gençliğim, Siyasî ve Edebî Hatıralarım, Yahya Kemal Enstitüsü / İstanbul, 1973, Hatıra",
+                "Tarih Musâhabeleri, Yahya Kemal Enstitüsü / İstanbul, 1975 ,Deneme",
+                "Bitmemiş Şiirler, Yahya Kemal Enstitüsü / İstanbul, 1976, Şiir",
+                "Mektuplar Makaleler, Yahya Kemal Enstitüsü / İstanbul, 1977, Mektup"
+            ],
+            "image": "yahya-kemal-beyatli-heykel.png"
+        },
+        {
             "title": "Şiir Anlayışı",
             "text": [
-                ""
-            ]
+                "1912-1914 Yahya Kemal’in bir düşünce adamı olarak belirdiği, kendinden önceki şiirle hesaplaştığı ve bir senteze gitmeye çalıştığı yıllardır. İlk hareket noktası ise tarihtir. Ona göre, “milli hayat, dokunulmaması yahut kendi tabii gelişmesine müdahale edilmemesi lazım gelen bir sentezdir.” Türkçülük ise Türkiye sorunudur. Çünkü 1071’deki Malazgirt zaferiyle yeni bir vatanda, yeni bir millet doğmuştur. Bu milletin dili ve kültürü bu yeni vatanın ürünüdür. Bu noktada Türkçülerden ve Ziya Gökalp’ten ayrılır Yahya Kemal. Vatanı, doğrudan doğruya atalarımızın doğduğu, bizim doğduğumuz, çocuklarımızın doğacağı toprak olarak görür. İnsan ve vatan bir bütündür. Türk insanını bu vatan oluşturmuştur. Dolayısıyla milli kültürü de. Tarih ve coğrafya vatan olarak somutlaşır böylece.",
+                "",
+                "Bu arayış döneminde Yahya Kemal, edebiyatın durumunu ve izlenmesi gereken yolu ise geçmişi de değerlendirerek şöyle belirliyordu:",
+                ["q", "1870’ten sonra, edebiyatta şarktan çıkmak zarureti vardı, çıktık, bu çıkış çok iyi oldu. Avrupa kültürünün mektebine girdik, orada okumaya koyulduk, yetmiş seneden beri de okuyoruz; yazık ki mektebden henüz çıkmadık; hâlâ bocalıyoruz. Milli ihtiyacı hiç duymayan ve duyar yaratılışta olmayan alafranga Türklerle konuşmak bile faydasızdır; çünkü onlar ‘mekteb’i gaye telakki ediyorlar; lâkin ‘mekteb’ vasıtadır. ‘Gaye’ bizim milliyetimizdir. Onun Avrupa medeniyeti içinde, tıpkı diğer milliyetler gibi, bir ‘hüviyet’ oluşudur; işte ihtiyacı duyan ve duyacak yaratılışta olan Türklerin ‘mektebden memlekete’ gelmeleri ve memleketi Türk edebiyatının çerçevesi haline getirmeleri lazım gelir."]
+            ],
+            "image": "yahya-kemal-beyatli-9.png"
+        },
+        {
+            "text": [
+                "Bu ilke, mektepten memlekete dönmek düşüncesi, Yahya Kemal’in şiirde yapmak istediklerinin de hareket noktası olmuştur. Ona göre, yabancı şiir ekollerinin esaslarını öğrenmeli, bilmeli, ama bunları olduğu gibi kabullenmek ya da uygulamak konusunda ihtiyatlı davranmalıdır. Çünkü, ‘Ecnebi memleketler bizim için bir mekteptir, vatan ise hayattır.’ Vatana dönünce öğrendiklerimizin bir bölümünü unutmalı; ancak bizim hayatımız ve bizim vatanımız için uygulanabilir olanları almalıyız.",
+                "",
+                "Bu düşünüş yeni şiir anlayışına getirir onu. Şiirde yapılması gereken üç şey olduğunu söyler Yahya Kemal. Birincisi ‘collectivite’nin dilinde şiir yaratmaktır. Çünkü şiir ancak bu yolla ‘collectivite’ye seslenebilir. İkincisi, Türk şiirini hâlis olmayan unsurlardan kurtarmak ve ona asıl unsuru olan ritmi bahşetmektir.’ Çünkü şiirin asıl maddesi anlam değil sözdür. Bu nedenle şairlik, anlamı söze dönüştürmek sanatıdır. Ama söz, kelimelerin yığılması demek değildir. Şiir, kelimelerin özel bir ahenk doğuran bileşiminden doğar. Bu bileşimde önemli olan, mısradaki ahenk dalgalanışlarıdır. Anlamın mısranın içinden bir ritm haline geçmesidir. Üçüncüsü, ‘sentetik şiir’ yapmaktır. Çünkü gerçek şiir, çeşitli bölümleri birbirini tamamlayan bir bütündür, bir bestedir.",
+                "",
+                "Ayrıca, şiirlerinde aruzu kullanan Yahya Kemal, vezni de bir araç olarak görmekteydi. Vezin, ‘poetique ection’un ermindeydi. Sorun, hece ya da aruz kullanılması değil, ‘derûni, içsel bir ahenk yaratılması sorunuydu. Dille düşüncenin ya da insanın geniş ve tam uygunluğuydu şiir. Çünkü gerçekte değişen aruz değil, dildi."
+            ],
+            "image": "yahya-kemal-beyatli-10.png"
+        },
+        {
+            "text": [
+                "Eskiler ‘Acemce’nin ahengini temel almışlar, Türkçe kelimeleri de bu ahenge uydurmak istemişlerdi. Oysa şiirin, Türkün hançeresine göre telaffuz edilmiş ve Türkün hançeresine uygun bir ahenk içinde kullanılmış kelimelerle yaratılması gerekiyordu. Bu özelliği taşıyansa İstanbul Türkçesiydi.",
+                "",
+                "Yahya Kemal’deki bu sentez arayışı bir geçmişle hesaplaşmanın ürünüdür. Divan şairlerinin, ancak birbirlerinin anlayabilecekleri kelimeler kullandıklarını ve bu yolla bir zümre şiiri oluşturduklarını; Tanzimatçılarınsa Batı şiirine açılmakla birlikte, dilde ve biçimde temel bir değişmeyi gerçekleştiremediklerini söyler. Edebiyatı Cediceciler de Türk şiirine gerçek bir yenilik getirememişlerdir ona göre. Tevfik Fikret şiiri nesre yaklaştırmış, kendisini sembolist sanan Cenap Şahabettin ise birtakım teşbih ve istiareleri sıralamayı yenilik sanmıştır. Oysa yeni Türk şiirinin her şeyden önce herkesin kullandığı kelimelerle yazılması gerekir. Aynı tavrı, bu geçmişle hesaplaşma tavrını, Dergâh dergisinin ilk sayısında yer alan ‘Üç Tepe’ başlıklı yazısında da görürüz. Gerek yaşanan günler, gerekse edebiyatın geleceği açısından bir sürecin yorumu sayılabilecek bu yazısında Yahya Kemal, yeni Türk edebiyatının o güne dek âleme iki tepeden baktığını söyler. Bunlar Çamlıca tepesi ile Tepebaşı’dır. Namık Kemal ve arkadaşları Çamlıca’dan bakarlar dünyaya. Tevfik Fikret ve arkadaşları ise Tepebaşı’ndan. İkisi de geçmiştir artık. Bundan sonraki edebiyatın hareket noktası, İnönü zaferinin simgesi Metris tepe olacaktır."
+            ],
+            "image": "yahya-kemal-beyatli-11.png"
+        },
+        {
+            "text": [
+                "Yahya Kemal’in bu değerlendirmesi bir geçmişi yadsıma, olarak alınmamalıdır. Tersine, onun için geçmiş bugünün temelidir. Yaşayan tarihtir. Nitekim Türk İstanbul’ başlıklı yazısında zamanın, ‘mâzi, hâl ve istikbâl’ olarak üçe bölünemeyeceğini savunur. Çünkü ona göre zaman yürümekte, sürmektedir. Bu nedenle gerçekte, geçmiş, şimdi ve gelecek yoktur; bir uzayıp gitme, sürme vardır. Aslolan bu imtidâd içinde değişmedir. Geçmişte ‘Şark medeniyeti’ içinde İstanbul’u yaratan Türklük, şimdi ‘Garp medeniyeti’ içinde başka ‘üslûpta’ güzellikler yaratmak zorundadır. Bu yaratmada önemli olan, ‘milli şuurla’ hareket etmektir.",
+                "",
+                "Denebilir ki Yahya Kemal, Batı’ya açılan Türk şiirinin kendini arayış serüveninde, belli bir bilinçle davranan ve yeni seçenekler sunan bir şairdir."
+            ],
+            "image": "yahya-kemal-beyatli-12.png"
         },
         {
             "title": "Yahya Kemal ve Celile Hanım",
             "text": [
-                "Leh asıllı Osmanlı paşası Mustafa Celaleddin'in torunu, Hasan Enver Paşa'nın kızı Celile Hanım, İstanbul sosyetesinde ressamlığı ve güzelliği ile nam salmıştı. 1900 yılında vali Nazım Paşa'nın oğlu Hikmet Bey ile evlendi. Bu evlilikten Nazım ve Samiye isimli iki çocuk dünyaya geldi.",
+                "Celile Hanım, Leh asıllı Osmanlı paşası Mustafa Celaleddin'in torunu ve Hasan Enver Paşa'nın kızıydı. Çocukluğunda saray ressamlarından dersler almıştı. Büyüdükçe İstanbul sosyetesinde ressamlığı ve güzelliğiyle nam salan Celile, 1900 yılında vali Nazım Paşa'nın oğlu Hikmet Bey ile evlendi. Bu evlilikten Nazım ve Samiye isimli iki çocuk dünyaya geldi.",
                 "",
                 "1916 yılında, Celile Hanım ve Hikmet Bey beraberlikleriyle ilgili sorunlar yaşamaya başladı. Yakup Kadri'nin Gençlik ve Edebiyat Hatıraları'nda söylediğine göre, tam da o günlerde Celile Hanım, bir Bektaşi tekkesinde Yahya Kemal'le karşılaşmıştı. İkisi de birbirlerini çok beğenmişti.",
                 "Celile Hanım'ın çocuğu, genç Nazım Hikmet ise Yahya Kemal'in öğretmenlik yaptığı Heybeliada Bahriye Mektebi'nde talebeydi. Nazım, hafta sonları ailesinin yanına dönüyordu. Celile Hanım, Yahya Kemal'den hafta sonlarında Nazım'a evde özel ders vermesini istedi.",
@@ -95,12 +147,12 @@
             "text": [
                 "Celile Hanım ve Yahya Kemal birlikteliği bir süre sonra Nazım'ın öğrenci olduğu Bahriye Mektebi'nde de duyuldu. Etrafta dolaşan dedikodular yüzünden Yahya Kemal bir süre okula gelmedi. Söylentiler arasında şairin sevgisine karşılık alamadığı için zehir içtiği de vardı. Okula döndüğünde ise yine o yıllarda Bahriye öğrencisi olan Necip Fazıl, öğretmenine şu alaycı cümleleri kurdu:",
                 "",
-                "'Hocam kibrit suyu içerek intihara kalkıştığınızı duyduk. Sınıfın bu durumdan duyduğu derin üzüntüyü size söylemek isterim.'",
+                "“Hocam kibrit suyu içerek intihara kalkıştığınızı duyduk. Sınıfın bu durumdan duyduğu derin üzüntüyü size söylemek isterim.”",
                 "",
                 "Necip Fazıl'ın dolaşan dedikodularla ilgili yaptığı bu imalı yorum, cezasız kalmadı. Yahya Kemal, bu cümle yüzünden Necip Fazıl'ı 'kodes' adı verilen tahta dolaba cezaya gönderdi.",
                 "Bu tutkulu aşktan ve etrafta dolaşan dedikodulardan tabii ki Nazım'ın da haberi vardı. Genç Nazım, bu aşka kesinlikle karşıydı. Bir gün öğretmeninin paltosunun cebine bir not bıraktı:",
                 "",
-                "'Hocam olarak girdiğiniz bu eve, babam olarak giremezsiniz.'"
+                "“Hocam olarak girdiğiniz bu eve, babam olarak giremezsiniz.”"
             ],
             "image": "celile-hanim-otoportre.png"
         },
@@ -120,7 +172,7 @@
                 "Yahya Kemal öldükten sonra, notları arasından, içerisinde kurumuş iki yaprak bulunan bir zarf çıktı.",
                 "",
                 "Şöyle yazıyordu zarfta:",
-                "'Bu zarfın içindeki hatıra, 19 Ağustos 1930'da sirkeci garında gece saat 10'da veda ettiğim aziz bir kadının göğsündeki çiçektendir. Koparıp verdiği bu iki yaprağı daima muhafaza edeceğim...'",
+                "“Bu zarfın içindeki hatıra, 19 Ağustos 1930'da sirkeci garında gece saat 10'da veda ettiğim aziz bir kadının göğsündeki çiçektendir. Koparıp verdiği bu iki yaprağı daima muhafaza edeceğim...”",
                 "Celile, Yahya Kemal ile olan ilişkisinden umudunu kesince Paris'e gitmiş ve giderken de onunla Sirkeci Garı'nda vedalaşmıştı.",
                 "",
                 "Yahya Kemal'in Celile Hanım'a çokça şiir yazdığı bilinir. Bu şiirlerden biri olan Sessiz Gemi, her ne kadar ölümü anlattığı düşünülse de, büyük aşkı Celile'nin vapurla adadan ayrılıp İstanbul’daki evine dönerken yaşadığı hislerini, Celile'ye olan aşkının ölümünü de anlatır; "
